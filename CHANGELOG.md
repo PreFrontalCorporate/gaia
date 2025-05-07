@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/spf13/cast](https://github.com/spf13/cast) from 1.7.1 to 1.8.0 ([#18](https://github.com/PreFrontalCorporate/gaia/pull/18))
+
 ## v23.3.0
 
 *May 5, 2025*
