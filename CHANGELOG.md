@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [synopsys-sig/synopsys-action](https://github.com/synopsys-sig/synopsys-action) from 1.6.0 to 1.13.1 ([#3](https://github.com/PreFrontalCorporate/gaia/pull/3))
+
 ## v23.3.0
 
 *May 5, 2025*
