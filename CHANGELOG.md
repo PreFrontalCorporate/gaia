@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [docker/build-push-action](https://github.com/docker/build-push-action) from 6.14.0 to 6.16.0 ([#6](https://github.com/PreFrontalCorporate/gaia/pull/6))
+
 ## v23.3.0
 
 *May 5, 2025*
