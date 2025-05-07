@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump google.golang.org/protobuf from 1.36.5 to 1.36.6 ([#17](https://github.com/PreFrontalCorporate/gaia/pull/17))
+
 ## v23.3.0
 
 *May 5, 2025*
