@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [cosmossdk.io/x/evidence](https://github.com/cosmos/cosmos-sdk) from 0.1.1 to 0.2.0 ([#12](https://github.com/PreFrontalCorporate/gaia/pull/12))
+
 ## v23.3.0
 
 *May 5, 2025*
