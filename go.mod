@@ -5,7 +5,7 @@ go 1.23.6
 require (
 	cosmossdk.io/api v0.7.6
 	cosmossdk.io/client/v2 v2.0.0-beta.7
-	cosmossdk.io/core v0.11.1
+	cosmossdk.io/core v1.0.0
 	cosmossdk.io/errors v1.0.1
 	cosmossdk.io/log v1.5.0
 	cosmossdk.io/math v1.5.0
@@ -51,6 +51,7 @@ require (
 )
 
 require (
+	cosmossdk.io/schema v1.0.0 // indirect
 	github.com/herumi/bls-eth-go-binary v1.31.0 // indirect
 	github.com/minio/sha256-simd v1.0.1 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
