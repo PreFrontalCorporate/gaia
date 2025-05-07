@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/prometheus/client_golang](https://github.com/prometheus/client_golang) from 1.20.5 to 1.22.0 ([#20](https://github.com/PreFrontalCorporate/gaia/pull/20))
+
 ## v23.3.0
 
 *May 5, 2025*
