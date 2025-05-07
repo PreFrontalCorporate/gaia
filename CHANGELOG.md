@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) from 2.0.19.pre.alpha1 to 2.0.19 ([#5](https://github.com/PreFrontalCorporate/gaia/pull/5))
+
 ## v23.3.0
 
 *May 5, 2025*
