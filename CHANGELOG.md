@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) from 1.0.16 to 1.0.17 ([#1](https://github.com/PreFrontalCorporate/gaia/pull/1))
+
 ## v23.3.0
 
 *May 5, 2025*
