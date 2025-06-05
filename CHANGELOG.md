@@ -9,6 +9,13 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump `@babel/runtime` from 7.24.0 to 7.27.4 ([#21](https://github.com/PreFrontalCorporate/gaia/pull/21))
+- Bump `@docusaurus/core` from 2.4.3 to 3.8.0 ([#21](https://github.com/PreFrontalCorporate/gaia/pull/21))
+- Bump `@docusaurus/plugin-client-redirects` from 2.4.3 to 3.8.0 ([#21](https://github.com/PreFrontalCorporate/gaia/pull/21))
+- Bump `@docusaurus/plugin-google-analytics` from 2.4.3 to 3.8.0 ([#21](https://github.com/PreFrontalCorporate/gaia/pull/21))
+
 ## v23.3.0
 
 *May 5, 2025*
