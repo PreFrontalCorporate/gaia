@@ -9,6 +9,12 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump `github.com/CosmWasm/wasmd` from 0.55.0 to 0.55.1 ([#22](https://github.com/PreFrontalCorporate/gaia/pull/22))
+- Bump `golang.org/x/crypto` from 0.32.0 to 0.35.0 ([#22](https://github.com/PreFrontalCorporate/gaia/pull/22))
+- Bump `golang.org/x/net` from 0.34.0 to 0.38.0 ([#22](https://github.com/PreFrontalCorporate/gaia/pull/22))
+
 ## v23.3.0
 
 *May 5, 2025*
