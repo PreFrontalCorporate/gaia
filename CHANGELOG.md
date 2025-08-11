@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [facebook/pyre-action](https://github.com/facebook/pyre-action) from 0.0.1 to 0.0.2 ([#42](https://github.com/PreFrontalCorporate/gaia/pull/42))
+
 ## v23.3.0
 
 *May 5, 2025*
