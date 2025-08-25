@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) from 4.0.2 to 4.3.1 ([#45](https://github.com/PreFrontalCorporate/gaia/pull/45))
+
 ## v23.3.0
 
 *May 5, 2025*
