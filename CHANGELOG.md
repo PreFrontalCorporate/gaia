@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [Contrast-Security-OSS/contrastscan-action](https://github.com/contrast-security-oss/contrastscan-action) from 2 to 3 ([#46](https://github.com/PreFrontalCorporate/gaia/pull/46))
+
 ## v23.3.0
 
 *May 5, 2025*
