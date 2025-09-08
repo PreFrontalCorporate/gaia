@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [microsoft/setup-msbuild](https://github.com/microsoft/setup-msbuild) from 1.0.2 to 2.0.0 ([#48](https://github.com/PreFrontalCorporate/gaia/pull/48))
+
 ## v23.3.0
 
 *May 5, 2025*
