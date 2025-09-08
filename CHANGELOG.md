@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [anchore/scan-action](https://github.com/anchore/scan-action) from 3.3.0 to 6.5.1 ([#50](https://github.com/PreFrontalCorporate/gaia/pull/50))
+
 ## v23.3.0
 
 *May 5, 2025*
