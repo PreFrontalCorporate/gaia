@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) from 1 to 3 ([#49](https://github.com/PreFrontalCorporate/gaia/pull/49))
+
 ## v23.3.0
 
 *May 5, 2025*
