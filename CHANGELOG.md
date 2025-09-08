@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/spf13/cobra](https://github.com/spf13/cobra) from 1.9.1 to 1.10.1 ([#52](https://github.com/PreFrontalCorporate/gaia/pull/52))
+
 ## v23.3.0
 
 *May 5, 2025*
