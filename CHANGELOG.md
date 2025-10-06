@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) from fcd5ab7459e8d91cb1777481980d1b18b4fc6735 to 713efdd345f3035192eaa63f56867b88e63e4e5d ([#60](https://github.com/PreFrontalCorporate/gaia/pull/60))
+
 ## v23.3.0
 
 *May 5, 2025*
