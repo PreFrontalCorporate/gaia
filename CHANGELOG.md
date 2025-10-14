@@ -9,6 +9,16 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump github.com/cometbft/cometbft from 0.38.17 to 0.38.19 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump github.com/btcsuite/btcd from 0.22.1 to 0.24.2 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump github.com/hashicorp/go-getter from 1.7.6 to 1.7.9 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump github.com/ulikunitz/xz from 0.5.12 to 0.5.14 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump golang.org/x/crypto from 0.32.0 to 0.33.0 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump golang.org/x/net from 0.34.0 to 0.35.0 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+- Bump golang.org/x/oauth2 from 0.25.0 to 0.27.0 ([#63](https://github.com/PreFrontalCorporate/gaia/pull/63))
+
 ## v23.3.0
 
 *May 5, 2025*
