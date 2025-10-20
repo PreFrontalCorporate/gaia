@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [veracode/veracode-pipeline-scan-results-to-sarif](https://github.com/veracode/veracode-pipeline-scan-results-to-sarif) from ff08ae5b45d5384cb4679932f184c013d34da9be to bbb92f8ccedc6c38e07d32c16cf2f690e7b4ba08 ([#65](https://github.com/PreFrontalCorporate/gaia/pull/65))
+
 ## v23.3.0
 
 *May 5, 2025*
