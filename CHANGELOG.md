@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [microsoft/msvc-code-analysis-action](https://github.com/microsoft/msvc-code-analysis-action) from 04825f6d9e00f87422d6bf04e1a38b1f3ed60d99 to 96315324a485db21449515180214ecb78c16a1c5 ([#66](https://github.com/PreFrontalCorporate/gaia/pull/66))
+
 ## v23.3.0
 
 *May 5, 2025*
