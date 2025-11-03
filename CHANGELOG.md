@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [security-code-scan/security-code-scan-add-action](https://github.com/security-code-scan/security-code-scan-add-action) from f8ff4f2763ed6f229eded80b1f9af82ae7f32a0d to 2439fb4aaeda4ad590a7c8bde327d159d03875fd ([#72](https://github.com/PreFrontalCorporate/gaia/pull/72))
+
 ## v23.3.0
 
 *May 5, 2025*
