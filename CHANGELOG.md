@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) from 0.5.0 to 0.33.1 ([#71](https://github.com/PreFrontalCorporate/gaia/pull/71))
+
 ## v23.3.0
 
 *May 5, 2025*
