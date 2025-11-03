@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [ossf/scorecard-action](https://github.com/ossf/scorecard-action) from 2.4.1 to 2.4.3 ([#73](https://github.com/PreFrontalCorporate/gaia/pull/73))
+
 ## v23.3.0
 
 *May 5, 2025*
