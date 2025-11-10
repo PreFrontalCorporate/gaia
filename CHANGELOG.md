@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [aws-actions/cloudformation-aws-iam-policy-validator](https://github.com/aws-actions/cloudformation-aws-iam-policy-validator) from 1.0.2 to 1.0.4 ([#76](https://github.com/PreFrontalCorporate/gaia/pull/76))
+
 ## v23.3.0
 
 *May 5, 2025*
