@@ -8,7 +8,7 @@ require (
 	cosmossdk.io/core v0.11.1
 	cosmossdk.io/errors v1.0.1
 	cosmossdk.io/log v1.5.0
-	cosmossdk.io/math v1.5.0
+	cosmossdk.io/math v1.5.3
 	cosmossdk.io/simapp v0.0.0-20240118210941-3897926e722e
 	cosmossdk.io/store v1.1.1
 	cosmossdk.io/tools/confix v0.1.2
@@ -103,7 +103,6 @@ require (
 	github.com/cloudwego/iasm v0.2.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3 // indirect
 	github.com/cockroachdb/apd/v2 v2.0.2 // indirect
-	github.com/cockroachdb/apd/v3 v3.2.1 // indirect
 	github.com/cockroachdb/errors v1.11.3 // indirect
 	github.com/cockroachdb/fifo v0.0.0-20240816210425-c5d0cb0b6fc0 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20241215232642-bb51bb14a506 // indirect
@@ -220,7 +219,7 @@ require (
 	github.com/prometheus/common v0.62.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
-	github.com/rogpeppe/go-internal v1.13.1 // indirect
+	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/rs/cors v1.11.1 // indirect
 	github.com/rs/zerolog v1.33.0 // indirect
 	github.com/sagikazarmark/locafero v0.7.0 // indirect
