@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/vektra/mockery/v2](https://github.com/vektra/mockery) from 2.43.2 to 2.53.5 ([#75](https://github.com/PreFrontalCorporate/gaia/pull/75))
+
 ## v23.3.0
 
 *May 5, 2025*
