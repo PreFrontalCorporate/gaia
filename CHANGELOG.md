@@ -9,6 +9,22 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump @babel/runtime from 7.24.0 to 7.28.4 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump body-parser from 1.20.2 to 1.20.3 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump brace-expansion from 1.1.11 to 1.1.12 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump cookie from 0.5.0 to 0.7.1 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump cross-spawn from 7.0.3 to 7.0.6 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump express from 4.18.3 to 4.21.2 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump path-to-regexp from 0.1.7 to 0.1.12 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump follow-redirects from 1.15.5 to 1.15.11 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump got from 9.6.0 to 12.6.1 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump js-yaml from 3.14.1 to 3.14.2 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump http-proxy-middleware from 2.0.6 to 2.0.9 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump image-size from 1.1.1 to 2.0.2 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+- Bump on-headers from 1.0.2 to 1.1.0 ([#77](https://github.com/PreFrontalCorporate/gaia/pull/77))
+
 ## v23.3.0
 
 *May 5, 2025*
