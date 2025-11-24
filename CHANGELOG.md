@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [sysdiglabs/scan-action](https://github.com/sysdiglabs/scan-action) from 3.2.0 to 6.2.1 ([#79](https://github.com/PreFrontalCorporate/gaia/pull/79))
+
 ## v23.3.0
 
 *May 5, 2025*
