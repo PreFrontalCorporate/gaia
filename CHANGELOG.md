@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [checkmarx-ts/checkmarx-cxflow-github-action](https://github.com/checkmarx-ts/checkmarx-cxflow-github-action) from 1.5 to 2.3 ([#80](https://github.com/PreFrontalCorporate/gaia/pull/80))
+
 ## v23.3.0
 
 *May 5, 2025*
