@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/rakyll/statik](https://github.com/rakyll/statik) from 0.1.7 to 0.1.8 ([#82](https://github.com/PreFrontalCorporate/gaia/pull/82))
+
 ## v23.3.0
 
 *May 5, 2025*
