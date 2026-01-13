@@ -9,6 +9,16 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump github.com/CosmWasm/wasmd from 0.55.0 to 0.55.1 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/cometbft/cometbft from 0.38.17 to 0.38.19 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/docker/docker from 27.1.1+incompatible to 28.0.0+incompatible ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/ethereum/go-ethereum from 1.15.5 to 1.16.8 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.4.0 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/hashicorp/go-getter from 1.7.5 to 1.7.9 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+- Bump github.com/opencontainers/runc from 1.1.14 to 1.2.8 ([#86](https://github.com/PreFrontalCorporate/gaia/pull/86))
+
 ## v23.3.0
 
 *May 5, 2025*
