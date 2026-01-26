@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [actions/download-artifact](https://github.com/actions/download-artifact) from 4 to 7 ([#90](https://github.com/PreFrontalCorporate/gaia/pull/90))
+
 ## v23.3.0
 
 *May 5, 2025*
