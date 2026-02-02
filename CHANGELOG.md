@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [actions/setup-dotnet](https://github.com/actions/setup-dotnet) from 4 to 5 ([#93](https://github.com/PreFrontalCorporate/gaia/pull/93))
+
 ## v23.3.0
 
 *May 5, 2025*
