@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [nowsecure/nowsecure-sbom-action](https://github.com/nowsecure/nowsecure-sbom-action) from ecb731b6f17a83fa53f756f9dae2ec7034c5ed7c to e64cb6d8d39d4cb6c58b4491fa4817b7a8ef3c14 ([#92](https://github.com/PreFrontalCorporate/gaia/pull/92))
+
 ## v23.3.0
 
 *May 5, 2025*
