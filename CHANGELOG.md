@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [soos-io/soos-dast-github-action](https://github.com/soos-io/soos-dast-github-action) from 2.3.0 to 2.4.4 ([#94](https://github.com/PreFrontalCorporate/gaia/pull/94))
+
 ## v23.3.0
 
 *May 5, 2025*
