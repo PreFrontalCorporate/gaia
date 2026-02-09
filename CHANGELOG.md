@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [SonarSource/sonarqube-scan-action](https://github.com/sonarsource/sonarqube-scan-action) from 1.1.0 to 7.0.0 ([#95](https://github.com/PreFrontalCorporate/gaia/pull/95))
+
 ## v23.3.0
 
 *May 5, 2025*
