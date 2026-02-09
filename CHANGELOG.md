@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [cosmossdk.io/tools/rosetta](https://github.com/cosmos/cosmos-sdk) from 0.2.1-0.20230613133644-0a778132a60f to 0.2.1 ([#98](https://github.com/PreFrontalCorporate/gaia/pull/98))
+
 ## v23.3.0
 
 *May 5, 2025*
