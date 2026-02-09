@@ -12,7 +12,7 @@ require (
 	cosmossdk.io/simapp v0.0.0-20240118210941-3897926e722e
 	cosmossdk.io/store v1.1.1
 	cosmossdk.io/tools/confix v0.1.2
-	cosmossdk.io/tools/rosetta v0.2.1-0.20230613133644-0a778132a60f
+	cosmossdk.io/tools/rosetta v0.2.1
 	cosmossdk.io/x/evidence v0.1.1
 	cosmossdk.io/x/feegrant v0.1.1
 	cosmossdk.io/x/tx v0.13.7
@@ -51,6 +51,7 @@ require (
 )
 
 require (
+	github.com/btcsuite/btcd/btcec/v2 v2.3.4 // indirect
 	github.com/herumi/bls-eth-go-binary v1.31.0 // indirect
 	github.com/minio/sha256-simd v1.0.1 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
