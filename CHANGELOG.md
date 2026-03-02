@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [shivammathur/setup-php](https://github.com/shivammathur/setup-php) from 2.19.0 to 2.36.0 ([#101](https://github.com/PreFrontalCorporate/gaia/pull/101))
+
 ## v23.3.0
 
 *May 5, 2025*
