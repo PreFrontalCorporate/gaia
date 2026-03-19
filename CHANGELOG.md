@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/docker/docker](https://github.com/docker/docker) from 27.1.1+incompatible to 28.0.0+incompatible ([#109](https://github.com/PreFrontalCorporate/gaia/pull/109))
+
 ## v23.3.0
 
 *May 5, 2025*
