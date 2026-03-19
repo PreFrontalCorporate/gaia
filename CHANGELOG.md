@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [go.opentelemetry.io/otel/sdk](https://github.com/open-telemetry/opentelemetry-go) from 1.35.0 to 1.40.0 ([#107](https://github.com/PreFrontalCorporate/gaia/pull/107))
+
 ## v23.3.0
 
 *May 5, 2025*
