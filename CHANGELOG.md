@@ -9,6 +9,19 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump github.com/cometbft/cometbft from 0.38.17 to 0.38.21 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump google.golang.org/grpc from 1.71.0 to 1.79.3 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump github.com/btcsuite/btcd from 0.22.1 to 0.24.2 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump github.com/consensys/gnark-crypto from 0.12.1 to 0.18.1 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump github.com/hashicorp/go-getter from 1.7.6 to 1.7.9 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump github.com/ulikunitz/xz from 0.5.12 to 0.5.14 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump golang.org/x/crypto from 0.32.0 to 0.46.0 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump golang.org/x/net from 0.34.0 to 0.48.0 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+- Bump golang.org/x/oauth2 from 0.25.0 to 0.34.0 ([#106](https://github.com/PreFrontalCorporate/gaia/pull/106))
+
 ## v23.3.0
 
 *May 5, 2025*
