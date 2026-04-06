@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [psalm/psalm-github-security-scan](https://github.com/psalm/psalm-github-security-scan) from 1.2.1 to 1.4.0 ([#113](https://github.com/PreFrontalCorporate/gaia/pull/113))
+
 ## v23.3.0
 
 *May 5, 2025*
