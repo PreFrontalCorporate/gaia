@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [nuget/setup-nuget](https://github.com/nuget/setup-nuget) from 1.0.5 to 3.1.0 ([#118](https://github.com/PreFrontalCorporate/gaia/pull/118))
+
 ## v23.3.0
 
 *May 5, 2025*
