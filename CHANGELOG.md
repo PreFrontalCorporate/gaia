@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/cosmos/ibc-go/v10](https://github.com/cosmos/ibc-go) from 10.1.1 to 10.6.0 ([#124](https://github.com/PreFrontalCorporate/gaia/pull/124))
+
 ## v23.3.0
 
 *May 5, 2025*
