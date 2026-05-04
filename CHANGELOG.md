@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [github.com/cosmos/ibc-apps/middleware/packet-forward-middleware/v10](https://github.com/cosmos/ibc-apps) from 10.1.0 to 10.6.0 ([#123](https://github.com/PreFrontalCorporate/gaia/pull/123))
+
 ## v23.3.0
 
 *May 5, 2025*
