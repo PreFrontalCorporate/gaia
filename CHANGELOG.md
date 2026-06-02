@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [MobSF/mobsfscan](https://github.com/mobsf/mobsfscan) from a60d10a83af68e23e0b30611c6515da604f06f65 to ec2927a8cfab6626a67f26b223be3aba52a34b70 ([#127](https://github.com/PreFrontalCorporate/gaia/pull/127))
+
 ## v23.3.0
 
 *May 5, 2025*
