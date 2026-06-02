@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [apisec-inc/apisec-run-scan](https://github.com/apisec-inc/apisec-run-scan) from 1.0.6 to 1.0.7 ([#126](https://github.com/PreFrontalCorporate/gaia/pull/126))
+
 ## v23.3.0
 
 *May 5, 2025*
