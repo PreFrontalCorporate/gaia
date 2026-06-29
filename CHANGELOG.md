@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [aws-actions/terraform-aws-iam-policy-validator](https://github.com/aws-actions/terraform-aws-iam-policy-validator) from 1.0.2 to 1.0.3 ([#131](https://github.com/PreFrontalCorporate/gaia/pull/131))
+
 ## v23.3.0
 
 *May 5, 2025*
