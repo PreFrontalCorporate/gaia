@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [hadolint/hadolint-action](https://github.com/hadolint/hadolint-action) from 2.1.0 to 3.3.0 ([#132](https://github.com/PreFrontalCorporate/gaia/pull/132))
+
 ## v23.3.0
 
 *May 5, 2025*
