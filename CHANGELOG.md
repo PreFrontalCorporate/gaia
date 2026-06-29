@@ -9,6 +9,18 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump github.com/CosmWasm/wasmd from 0.55.0 to 0.55.1 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/cometbft/cometbft from 0.38.17 to 0.38.21 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump google.golang.org/grpc from 1.71.0 to 1.79.3 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/docker/cli from 26.1.4+incompatible to 29.2.0+incompatible ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/ethereum/go-ethereum from 1.15.5 to 1.17.0 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.4.0 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/hashicorp/go-getter from 1.7.5 to 1.8.6 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+- Bump github.com/opencontainers/runc from 1.1.14 to 1.3.6 ([#138](https://github.com/PreFrontalCorporate/gaia/pull/138))
+
 ## v23.3.0
 
 *May 5, 2025*
