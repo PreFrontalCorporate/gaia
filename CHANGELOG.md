@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [jscrambler/code-integrity-actions/protect](https://github.com/jscrambler/code-integrity-actions) from 6.4.9 to 8.12.0 ([#136](https://github.com/PreFrontalCorporate/gaia/pull/136))
+
 ## v23.3.0
 
 *May 5, 2025*
