@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [fortify/github-action](https://github.com/fortify/github-action) from 1.7.0 to 3.1.1 ([#134](https://github.com/PreFrontalCorporate/gaia/pull/134))
+
 ## v23.3.0
 
 *May 5, 2025*
