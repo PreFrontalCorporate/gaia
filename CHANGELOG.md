@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 1.7.1 to 2.3.8 ([#135](https://github.com/PreFrontalCorporate/gaia/pull/135))
+
 ## v23.3.0
 
 *May 5, 2025*
