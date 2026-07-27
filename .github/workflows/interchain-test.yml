@@ -82,7 +82,7 @@ jobs:
                 set -o pipefail
                 go test -v ./... -failfast -p 1 -timeout 5h -run="^${{ matrix.test_name }}" -json | tee ../../output-${{ matrix.previous_version }}-${{ matrix.test_name }}.json | tparse -follow -all
             - name: Upload output
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               if: always()
               with:
                 name: output-${{ matrix.previous_version }}-${{ matrix.test_name }}
@@ -113,7 +113,7 @@ jobs:
                 cat test-report-*.md > test-report.md
                 cat test-report.md > $GITHUB_STEP_SUMMARY
             - name: Upload output
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v7
               with:
                 name: test-report
                 path: test-report.md
