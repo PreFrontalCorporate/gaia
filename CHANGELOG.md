@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [snyk/actions/docker](https://github.com/snyk/actions) from 14818c4695ecc4045f33c9cee9e795a788711ca4 to 8e119fbb6c251787721d34ba683ed48eba792766 ([#145](https://github.com/PreFrontalCorporate/gaia/pull/145))
+
 ## v23.3.0
 
 *May 5, 2025*
