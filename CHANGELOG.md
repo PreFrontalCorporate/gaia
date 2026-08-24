@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) from 1.27.0 to 4.0.0 ([#150](https://github.com/PreFrontalCorporate/gaia/pull/150))
+
 ## v23.3.0
 
 *May 5, 2025*
