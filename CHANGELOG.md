@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [stackhawk/hawkscan-action](https://github.com/stackhawk/hawkscan-action) from 1.3.0 to 3.1.1 ([#153](https://github.com/PreFrontalCorporate/gaia/pull/153))
+
 ## v23.3.0
 
 *May 5, 2025*
