@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action) from 1.1.0 to 4.4.7 ([#151](https://github.com/PreFrontalCorporate/gaia/pull/151))
+
 ## v23.3.0
 
 *May 5, 2025*
