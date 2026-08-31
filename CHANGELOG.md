@@ -9,6 +9,10 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.71.0 to 1.83.2 ([#155](https://github.com/PreFrontalCorporate/gaia/pull/155))
+
 ## v23.3.0
 
 *May 5, 2025*
