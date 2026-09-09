@@ -9,6 +9,22 @@
 ### STATE BREAKING
 - Add x/liquid module ([\#3712](https://github.com/cosmos/gaia/pull/3712))
 
+### Dependencies
+
+- Bump postcss from 8.4.35 to 8.5.28 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump @babel/core from 7.12.9 to 7.29.7 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump @babel/plugin-transform-modules-systemjs from 7.23.9 to 7.29.8 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump body-parser from 1.20.2 to 1.20.8 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump brace-expansion from 1.1.11 to 1.1.18 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump browserslist from 4.23.0 to 4.28.9 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump follow-redirects from 1.15.5 to 1.16.0 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump js-yaml from 3.14.1 to 4.3.2 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump http-proxy-middleware from 2.0.6 to 2.0.10 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump image-size from 1.1.1 to 2.0.2 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump joi from 17.12.2 to 17.13.7 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump launch-editor from 2.6.1 to 2.14.1 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+- Bump lodash from 4.17.21 to 4.18.1 ([#159](https://github.com/PreFrontalCorporate/gaia/pull/159))
+
 ## v23.3.0
 
 *May 5, 2025*
